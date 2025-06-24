@@ -1,4 +1,4 @@
-# Concentration Field Plotter For RO Process
+# Plotter For RO Process
 
 This Python script visualizes fields from VTK mesh files using PyVista and Matplotlib. vista1.py for the concentration with contourf and vista2.py for the velocity field using streamlines.
 
